@@ -59,6 +59,8 @@ p {
     background-position: center;
 }
 
+/* Changed fhe above file name to be more descriptive of the image in order to improve accessibility without being able to employ an alt tag in CSS */
+
 .float-left {
     float: left;
     margin-right: 25px;
@@ -85,6 +87,8 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
+
+/* Consolidated each of the below sections from three separate CSS selectors into a single one which all denote the same function */
 
 .benefit-lead, 
 .benefit-brand, 
@@ -136,6 +140,8 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+/* Each section between this comment and the previous comment was consolidated from three selectors down to onw */
 
 .footer {
     padding: 30px;
