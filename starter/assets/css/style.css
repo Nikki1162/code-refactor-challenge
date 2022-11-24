@@ -59,7 +59,7 @@ p {
     background-position: center;
 }
 
-/* Changed fhe above file name to be more descriptive of the image in order to improve accessibility without being able to employ an alt tag in CSS */
+/* Changed the above file name to be more descriptive of the image in order to improve accessibility without being able to employ an alt tag in CSS */
 
 .float-left {
     float: left;
@@ -128,7 +128,7 @@ p {
 }
 
 .search-engine-optimization img, 
-.online-reputation-managementimg, 
+.online-reputation-management img, 
 .social-media-marketing img 
 {
     max-height: 200px;
